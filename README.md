@@ -60,5 +60,4 @@ Accuracy comparison of different Fertilizer Recommendation models:
 <img src="https://github.com/aadilkhalifa/crop-prediction/blob/main/images/fertilizer-accuracy.jpg?raw=true" alt="drawing" width="500"/>
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
